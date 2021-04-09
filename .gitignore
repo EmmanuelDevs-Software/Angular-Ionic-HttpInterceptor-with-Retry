@@ -1,0 +1,13 @@
+package-lock.json
+front-comunidades/awsmobilejs/
+.sourcemaps/
+node_modules/
+
+platforms/
+plugins/
+
+www/
+
+package-lock.json
+
+.vscode/settings.json
